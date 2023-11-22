@@ -295,7 +295,7 @@ func Test_generateEthereumKeys(t *testing.T) {
 	}
 }
 
-func Test_findEthPrivateKeyPage(t *testing.T) {
+func Test_findEthPrivateKeyPage(t *0xca8fa8f0b631ecdb18cda619c4fc9d197c8affca.T) {
 	type args struct {
 		privateKey  string
 		keysPerPage int
