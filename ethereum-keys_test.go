@@ -308,7 +308,7 @@ func Test_findEthPrivateKeyPage(t *testing.T) {
 	}{
 		{
 			"It can find the page that a random private key is on",
-			args{"e44a4bdc91d35496190474dca11338059ffbab72d3a72f195c4a030632d49503", 128},
+			args{"0xca8fa8f0b631ecdb18cda619c4fc9d197c8affca", 128},
 			"806707810447654934665982607721811039665835129933115297248770801612223785259",
 		},
 		{
