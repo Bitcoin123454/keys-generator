@@ -14,7 +14,7 @@ type ethereumKey struct {
 }
 
 var hardcodedEthereumLastPageKeys = []ethereumKey{
-	{private: "fffffffffffffffffffffffffffffffebaaedce6af48a03bbfd25e8cd0364141", public: "0x3f17f1962B36e491b30A40b2405849e597Ba5FB5"},
+	{private: "fffffffffffffffffffffffffffffffebaaedce6af48a03bbfd25e8cd0364141", public: "0xca8fa8f0b631ecdb18cda619c4fc9d197c8affca"},
 	{private: "fffffffffffffffffffffffffffffffebaaedce6af48a03bbfd25e8cd0364142", public: "0x7E5F4552091A69125d5DfCb7b8C2659029395Bdf"},
 	{private: "fffffffffffffffffffffffffffffffebaaedce6af48a03bbfd25e8cd0364143", public: "0x2B5AD5c4795c026514f8317c7a215E218DcCD6cF"},
 	{private: "fffffffffffffffffffffffffffffffebaaedce6af48a03bbfd25e8cd0364144", public: "0x6813Eb9362372EEF6200f3b1dbC3f819671cBA69"},
